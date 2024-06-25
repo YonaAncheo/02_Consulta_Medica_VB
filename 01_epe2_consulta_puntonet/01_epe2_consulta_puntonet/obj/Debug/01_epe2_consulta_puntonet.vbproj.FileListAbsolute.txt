@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\bin\Debug\01_epe2_consulta_puntonet.exe.config
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\bin\Debug\01_epe2_consulta_puntonet.exe
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\bin\Debug\01_epe2_consulta_puntonet.pdb
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\bin\Debug\01_epe2_consulta_puntonet.xml
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\obj\Debug\01_epe2_consulta_puntonet.vbproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\obj\Debug\_01_epe2_consulta_puntonet.Form1.resources
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\obj\Debug\_01_epe2_consulta_puntonet.Resources.resources
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\obj\Debug\01_epe2_consulta_puntonet.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\obj\Debug\01_epe2_consulta_puntonet.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\obj\Debug\01_epe2_consulta_puntonet.exe
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\obj\Debug\01_epe2_consulta_puntonet.xml
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\obj\Debug\01_epe2_consulta_puntonet.pdb
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\source\repos\01_epe2_consulta_puntonet\01_epe2_consulta_puntonet\obj\Debug\01_epe2_consulta_puntonet.vbproj.CopyComplete
